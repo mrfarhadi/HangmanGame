@@ -5,11 +5,7 @@
 bkp/
 bin/
 build/
-.idea
-out
 *.iml
-*.ipr
-*.iws
 *.class
 *.bin
 .DS_Store
